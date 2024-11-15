@@ -1,6 +1,6 @@
 # LinkedIn Searcher
 ## This tool allows an automated search of jobs on LinkedIn.
-Please be responsible with it, APIs are not free.
+Please be responsible with it, APIs are not free to use an unlimited amount.
 
 ## To use
 1. Clone the repository
