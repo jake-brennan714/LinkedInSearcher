@@ -1,0 +1,7 @@
+target
+target/**
+.vscode
+.vscode/**
+
+# NO F**KUPS!
+.env
